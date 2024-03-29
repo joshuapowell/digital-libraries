@@ -1,6 +1,6 @@
 # Databases & Digital Libraries
 
-A collection of digital libraries and databases for research.
+A collection of digital libraries and databases to use as a jumping off point for secondary research in user experience research applications.
 
 | Name | URL | Category |
 | --- | --- | --- |

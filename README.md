@@ -27,7 +27,7 @@ A collection of digital libraries and databases to use as a jumping off point fo
 | People Nerds | https://dscout.com/people-nerds |  |
 | User Interviews Blog | https://www.userinterviews.com/blog |  |
 | UIE Blog | https://articles.uie.com/all/ |  |
-| Google | Design | https://design.google |  |
+| Google Design | https://design.google |  |
 | Nielsen Norman Group | https://www.nngroup.com/articles/ |  |
 | Notably Blog | https://www.notably.ai/blog |  |
 | User Zoom Blog | https://www.userzoom.com/ux-library/?resourceType=Article |  |
@@ -80,7 +80,7 @@ A collection of digital libraries and databases to use as a jumping off point fo
 | UK Goverment Research Blog | https://userresearch.blog.gov.uk/ |  |
 | UXPA Magazine | https://uxpamagazine.org |  |
 | Journal of User Experience | https://uxpajournal.org |  |
-| Neurological Research and Practice | neurolrespract.biomedcentral.com |  |
+| Neurological Research and Practice | https://neurolrespract.biomedcentral.com |  |
 | Dualo | https://dualo.io/blog |  |
 | Observable Blog | https://observablehq.com/blog |  |
 | Counting Stuff | http://counting.substack.com | Personal Website |

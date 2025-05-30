@@ -18,6 +18,7 @@ A collection of digital libraries and databases to use as a jumping off point fo
 | Arxiv | https://arxiv.org/ | Prepublication |
 
 ## Industry Websites
+User Experience, User Experience Research, Product Research
 
 | Name | URL | Category |
 | --- | --- | --- |
